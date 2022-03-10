@@ -3,12 +3,9 @@ layout: cv
 title: Archie Wood's Resume
 ---
 # ARCHIE WOOD
+<a href="archieemwood@gmail.com">archieemwood@gmail.com</a> <a href="tel:14169916684">+1-416-991-6684</a>
+
 BI & data enthusiast, Early stage startup builder
-
-<div id="webaddress">
-<a href="archieemwood@gmail.com">archieemwood@gmail.com</a>
-</div>
-
 
 ## EXPERIENCE
 
@@ -19,6 +16,7 @@ Joined competitive accelerator accepting <5% of applicants. Invalidated MVP duri
 `Jan 21 - Aug 21`
 __Chief of Staff & BI Product Manager – Patch Plants, London (VC Backed eCom startup)__
 Promoted, taking on product management & line management of BI team as well as below responsibilities.
+
 `Aug 19 - Jan 21`
 __Strategy Manager – Patch Plants__
 Reported to CEO, and sat on leadership team which steered company direction & decision-making. Role included CEO office, coordinating quarterly objective (OKR) setting process, and special projects:
