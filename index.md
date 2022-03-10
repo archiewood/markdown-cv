@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Archie Wood's Resume
 ---
 # ARCHIE WOOD
