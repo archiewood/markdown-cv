@@ -1,65 +1,77 @@
-# markdown-cv
+---
+title: Archie Wood's Resume
+---
+# ARCHIE WOOD
+<a href="archieemwood@gmail.com">archieemwood@gmail.com</a> - <a href="tel:14169916684">+1-416-991-6684</a>
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+BI & data enthusiast, Early stage startup builder
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## EXPERIENCE
 
-***
+`Aug 21 - Jan 21`
+__Founder-in-Residence – Entrepreneur First, Toronto (VC accelerator)__
+Joined competitive accelerator accepting <5% of applicants. Invalidated MVP during 30 user interviews.
 
-## Customization
+`Jan 21 - Aug 21`
+__Chief of Staff & BI Product Manager – Patch Plants, London (VC Backed eCom startup)__
+Promoted, taking on product management & line management of BI team as well as below responsibilities.
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+`Aug 19 - Jan 21`
+__Strategy Manager – Patch Plants__
+Reported to CEO, and sat on leadership team which steered company direction & decision-making. Role included CEO office, coordinating quarterly objective (OKR) setting process, and special projects:
+* __Business Intelligence Product Management:__ Revamped BI work planning process to increase team accountability and progress visibilty. Improved clarity and timeliness of requests to BI. Caused sprint planning to halve in time. Advocated & oversaw moves from Stitch to Fivetran, Segment to Rudderstack.
+* __Reducing Low-Value Orders:__ Identified characteristics of unprofitable orders using data from across the business (Data from Looker, Snowflake SQL, Google Sheets, Viz in Looker / Python Plotly). Prioritized minimum basket value feature to reduce the impact of these, balancing against CX. Eliminated over 90% of contribution margin negative orders.
+* __UK Wide Delivery:__ Prioritized rollout of Patch from London to whole UK delivery. Set up stage gated process with progression criteria to ensure success. MVP launched in 2 months, and 1 month after launch new business reached size of previous London operation
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+`Oct 18 - Aug 19`
+__Consultant – OC&C Strategy Consultants, London__
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+`Mar 16 - Sep 18`
+__Associate Consultant – OC&C Strategy Consultants__
+OC&C is a boutique strategy consultancy, competing with top tier (MBB) consultancies in Tech, CPG, retail and B2B services.
+Undertook 20 commercial strategy & due diligence projects, including go-to-market strategy, marketing strategy, customer segmentation, & operational transformation.
+Typically led teams of 2-5 Associate Consultants. Example projects include:
+* __Commercial Due Diligence – ThreatMetrix:__ Conducted market, competitor and customer review of fraud detection and prevention business focused on consumer banking. Interviewed c.20 enterprise customers to understand key segments and use cases of cyber-security products, and willingness to pay for solution types. Sized and forecast different product types’ addressable markets.
+* __Rollout Strategy – European Food Delivery Platform:__ Ran project for an EBITDA profitable, rapidly growing European food delivery start-up, to understand key drivers of city profitability potential, and ran city level market prioritization exercise for next cities to launch into.
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+`Aug 13 - Sep 13`
+__Software Engineering Intern – BT__
+* Developed face recognition module (C++) for app aiming to break down workplace silos in enterprises.
 
-adding your skills, jobs and education.
+## EDUCATION
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+`2014-15`
+__MSci – Physics, University of Cambridge__
+1st Class Degree
+_Project: Epidemiological models of disease (implemented in C++)._
 
-## Distribution
+`2011-14`
+__BA Natural Sciences, Physics, University of Cambridge__
+1st Class in all 3 years
+_Foundation & College Scholarships - Top 20% of class (June 14)._
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+`2011-14`
+__A Level, Berkhamsted School, UK__
+5 A\*s at A Level (Graduated top in class of 200 students)
+_Awarded the highest scholarship to study at the school._
 
-### I. Use Github Pages to publish it online
+## SIDE PROJECTS & OTHER INTERESTS
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+### Technical Skills
+Tech enthusiast, capable SQL analyst, Python hacker. Experience rapidly prototyping products to test business ideas:
+* __EV Charging Platform:__ <a href="https://1charge.co/">App</a> to help EV owners charge from any chargepoint. (Built in Python Flask, deployed in Heroku). Conducted 8 user interviews, documenting 10 key charging pain-points, and used this to prioritize features. MVP features included a mobile-first site, a rapid payment journey (Apple / Google Pay support), and a map to locate nearby chargepoints.
+* __Staff Wellbeing:__ Identified and raised problems with staff project satisfaction with management, pitching improvements in transparency and accountability. Given 3 weeks off project work to build data collection app to improve satisfaction visibility (Windows C# app, Typeform survey). Recruited beta users to test MVP, identified and implemented ‘launch critical’ features, then deployed to 600 staff internationally. Data now published weekly and used to optimize project team size and hours.
+* __Wordle Solver:__ Simple <a href="https://wordle-companion.herokuapp.com/">web app</a> to aid solving viral game, Wordle (Postgres, Python Plotly-Dash, Bootstrap, Heroku).
+* __Sun Tracking:__ <a href="light-on-my-balcony.herokuapp.com/">Live dashboard</a> I built in lockdown 2020 showing when I should schedule lunch to maximize the chance of eating in the sun on my balcony. (Built in Python, hardware with Raspberry Pi light sensor).
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-### II. Build it locally and print a PDF
+### Cambridge University Lightweight Rowing Club
+* Beat Oxford University in 2015 Lwt Boat Race, after winning place in university crew, training 12 times per week (25hrs).
+* National standard; raced at British Rowing Championships and trialed for GB team.
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
-## Styling
+<!-- ### Footer
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+Last updated: March 2022 -->
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
