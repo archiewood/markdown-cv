@@ -2,7 +2,7 @@
 title: Archie Wood's Resume
 ---
 # ARCHIE WOOD
-<a href="archieemwood@gmail.com">archieemwood@gmail.com</a> <a href="tel:14169916684">+1-416-991-6684</a>
+<a href="archieemwood@gmail.com">archieemwood@gmail.com</a> - <a href="tel:14169916684">+1-416-991-6684</a>
 
 BI & data enthusiast, Early stage startup builder
 
